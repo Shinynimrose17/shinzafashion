@@ -22,7 +22,7 @@
            {/* Logo */}
            <Link to="/" className="flex items-center gap-2">
              <span className="font-heading text-xl md:text-2xl font-semibold text-warm-charcoal tracking-tight">
-               Sinza Dress Fashion
+               Shinza Dress Fashion
              </span>
            </Link>
  
