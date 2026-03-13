@@ -53,7 +53,7 @@ const Index = () => {
               Crafting Dreams into Reality
             </h2>
             <p className="text-warm-gray leading-relaxed text-lg">
-              At Sinza Dress Fashion, we believe every woman deserves to feel
+              At Shinza Dress Fashion, we believe every woman deserves to feel
               extraordinary. Our bespoke creations blend traditional
               craftsmanship with contemporary elegance, ensuring each piece is
               as unique as the person wearing it. From bridal dreams to special
