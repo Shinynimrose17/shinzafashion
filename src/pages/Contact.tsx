@@ -171,10 +171,10 @@
                        Email
                      </h3>
                      <a
-                       href="mailto:hello@sinzadress.com"
+                       href="mailto:hello@shinzadress.com"
                        className="text-warm-gray hover:text-dusty-rose transition-colors"
                      >
-                       hello@sinzadress.com
+                       hello@shinzadress.com
                      </a>
                    </div>
                  </div>
