@@ -9,7 +9,7 @@
            {/* Brand */}
            <div>
              <h3 className="font-heading text-2xl font-medium mb-4">
-               Sinza Dress Fashion
+               Shinza Dress Fashion
              </h3>
              <p className="text-cream/70 leading-relaxed">
                Creating timeless elegance through custom fashion design. Every
@@ -57,11 +57,11 @@
              </h4>
              <div className="flex flex-col gap-3">
                <a
-                 href="mailto:hello@sinzadress.com"
+                 href="mailto:hello@shinzadress.com"
                  className="flex items-center gap-2 text-cream/70 hover:text-dusty-rose-light transition-colors"
                >
                  <Mail size={18} />
-                 hello@sinzadress.com
+                 hello@shinzadress.com
                </a>
                <a
                  href="tel:+1234567890"
@@ -77,7 +77,7 @@
                  className="flex items-center gap-2 text-cream/70 hover:text-dusty-rose-light transition-colors"
                >
                  <Instagram size={18} />
-                 @sinzadressfashion
+                 @shinzadressfashion
                </a>
              </div>
            </div>
@@ -86,7 +86,7 @@
          {/* Bottom Bar */}
          <div className="mt-12 pt-8 border-t border-cream/20 text-center">
            <p className="text-cream/50 text-sm">
-             © {new Date().getFullYear()} Sinza Dress Fashion. All rights
+             © {new Date().getFullYear()} Shinza Dress Fashion. All rights
              reserved.
            </p>
          </div>
